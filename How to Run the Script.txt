@@ -1,0 +1,2 @@
+1. Go to Main Folder of Project. ex Web folder
+2. Run in command line: python -m SampleProject.Test.login
